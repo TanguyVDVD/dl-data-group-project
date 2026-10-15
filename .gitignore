@@ -4,8 +4,11 @@ dataset_euro/
 .venv
 .cache_euro/
 .cache_ecb/
-__pycach__/
+__pycache__/
 raw/
 dataset_euro.zip
 Media.jpg
 .pyhton-version
+2euro_by_country/
+uv.lock
+export/__pycache__/
