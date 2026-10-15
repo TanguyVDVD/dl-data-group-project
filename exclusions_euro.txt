@@ -1,0 +1,20 @@
+# Images écartées de dataset_euro/ par build_euro_dataset.py (une par ligne, nom sans extension).
+# Principalement des pièces en euro (surtout espagnoles) rangées par erreur comme "piece" dans Francesco/coins-1apki.
+# Pour en trouver d'autres : cellule "Nettoyage" de model-euro.ipynb, puis relancer build_euro_dataset.py.
+
+# vérifiées à l'œil : euros espagnols
+francesco_1859_0_c1
+francesco_219_0_c1
+francesco_272_0_c1
+francesco_30_0_c1
+francesco_3222_0_c1
+francesco_4251_0_c1
+francesco_4919_0_c1
+francesco_5002_0_c1
+francesco_5036_0_c1
+francesco_5283_0_c1
+francesco_5500_0_c1
+francesco_5667_0_c1
+francesco_5761_0_c1
+francesco_739_0_c1
+francesco_855_0_c1

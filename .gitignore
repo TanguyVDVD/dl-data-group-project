@@ -1,0 +1,11 @@
+mes_photos/
+dataset_split/
+dataset_euro/
+.venv
+.cache_euro/
+.cache_ecb/
+__pycach__/
+raw/
+dataset_euro.zip
+Media.jpg
+.pyhton-version
